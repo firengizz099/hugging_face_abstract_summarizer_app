@@ -1,0 +1,7 @@
+gradio
+PyPDF2
+gTTS
+transformers
+torch
+pdfplumber
+scipy
