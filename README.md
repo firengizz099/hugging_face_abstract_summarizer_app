@@ -1,4 +1,3 @@
-# hugging_face_abstract_summarizer_app
 
 ---
 title: Abstract Summarizer
